@@ -1,0 +1,319 @@
+city,interval,start_year,end_year,from_smod_class,from_class_label,to_smod_class_10,to_smod_class_11,to_smod_class_12,to_smod_class_13,to_smod_class_21,to_smod_class_22,to_smod_class_23,to_smod_class_30
+Addis Ababa,1975-1980,1975,1980,10,Water,4,1,0,0,0,0,0,0
+Addis Ababa,1975-1980,1975,1980,11,Open spaces,0,4084,106,1,5,0,0,2
+Addis Ababa,1975-1980,1975,1980,12,Discontinuous very low density,0,65,298,8,66,0,0,5
+Addis Ababa,1975-1980,1975,1980,13,Discontinuous low density,0,0,1,13,4,0,0,0
+Addis Ababa,1975-1980,1975,1980,21,Suburban/Peri-urban,0,0,1,0,110,0,12,35
+Addis Ababa,1975-1980,1975,1980,22,Semi-dense Urban,0,0,0,0,1,10,2,2
+Addis Ababa,1975-1980,1975,1980,23,Dense Urban,0,0,0,0,0,0,38,16
+Addis Ababa,1975-1980,1975,1980,30,Urban Centre,0,0,0,0,0,0,0,153
+Addis Ababa,1980-1985,1980,1985,10,Water,4,0,0,0,0,0,0,0
+Addis Ababa,1980-1985,1980,1985,11,Open spaces,0,4035,114,0,0,0,0,1
+Addis Ababa,1980-1985,1980,1985,12,Discontinuous very low density,0,23,315,4,58,0,0,6
+Addis Ababa,1980-1985,1980,1985,13,Discontinuous low density,0,0,0,10,6,6,0,0
+Addis Ababa,1980-1985,1980,1985,21,Suburban/Peri-urban,0,0,0,0,136,2,7,41
+Addis Ababa,1980-1985,1980,1985,22,Semi-dense Urban,0,0,0,0,0,4,6,0
+Addis Ababa,1980-1985,1980,1985,23,Dense Urban,0,0,0,0,0,0,39,13
+Addis Ababa,1980-1985,1980,1985,30,Urban Centre,0,0,0,0,0,0,0,213
+Addis Ababa,1985-1990,1985,1990,10,Water,4,0,0,0,0,0,0,0
+Addis Ababa,1985-1990,1985,1990,11,Open spaces,0,3945,113,0,0,0,0,0
+Addis Ababa,1985-1990,1985,1990,12,Discontinuous very low density,0,5,390,8,24,0,0,2
+Addis Ababa,1985-1990,1985,1990,13,Discontinuous low density,0,0,0,14,0,0,0,0
+Addis Ababa,1985-1990,1985,1990,21,Suburban/Peri-urban,0,0,0,0,148,1,5,46
+Addis Ababa,1985-1990,1985,1990,22,Semi-dense Urban,0,0,0,0,3,4,5,0
+Addis Ababa,1985-1990,1985,1990,23,Dense Urban,0,0,0,0,0,0,41,11
+Addis Ababa,1985-1990,1985,1990,30,Urban Centre,0,0,0,0,0,0,0,274
+Addis Ababa,1990-1995,1990,1995,10,Water,4,0,0,0,0,0,0,0
+Addis Ababa,1990-1995,1990,1995,11,Open spaces,0,3879,70,0,0,0,0,1
+Addis Ababa,1990-1995,1990,1995,12,Discontinuous very low density,0,0,472,8,18,0,0,5
+Addis Ababa,1990-1995,1990,1995,13,Discontinuous low density,0,0,0,17,5,0,0,0
+Addis Ababa,1990-1995,1990,1995,21,Suburban/Peri-urban,0,0,0,0,149,0,3,23
+Addis Ababa,1990-1995,1990,1995,22,Semi-dense Urban,0,0,0,0,1,2,2,0
+Addis Ababa,1990-1995,1990,1995,23,Dense Urban,0,0,0,0,0,0,43,8
+Addis Ababa,1990-1995,1990,1995,30,Urban Centre,0,0,0,0,0,0,0,333
+Addis Ababa,1995-2000,1995,2000,10,Water,4,0,0,0,0,0,0,0
+Addis Ababa,1995-2000,1995,2000,11,Open spaces,0,3810,69,0,0,0,0,0
+Addis Ababa,1995-2000,1995,2000,12,Discontinuous very low density,0,5,515,8,12,0,0,2
+Addis Ababa,1995-2000,1995,2000,13,Discontinuous low density,0,0,0,22,1,2,0,0
+Addis Ababa,1995-2000,1995,2000,21,Suburban/Peri-urban,0,0,0,0,150,3,8,12
+Addis Ababa,1995-2000,1995,2000,22,Semi-dense Urban,0,0,0,0,0,0,2,0
+Addis Ababa,1995-2000,1995,2000,23,Dense Urban,0,0,0,0,0,0,48,0
+Addis Ababa,1995-2000,1995,2000,30,Urban Centre,0,0,0,0,0,0,0,370
+Addis Ababa,2000-2005,2000,2005,10,Water,2,2,0,0,0,0,0,0
+Addis Ababa,2000-2005,2000,2005,11,Open spaces,0,3696,112,3,4,0,0,0
+Addis Ababa,2000-2005,2000,2005,12,Discontinuous very low density,0,21,518,6,35,0,0,4
+Addis Ababa,2000-2005,2000,2005,13,Discontinuous low density,0,0,3,20,5,0,2,0
+Addis Ababa,2000-2005,2000,2005,21,Suburban/Peri-urban,0,0,0,0,123,1,14,25
+Addis Ababa,2000-2005,2000,2005,22,Semi-dense Urban,0,0,0,0,3,2,0,0
+Addis Ababa,2000-2005,2000,2005,23,Dense Urban,0,0,0,0,0,0,48,10
+Addis Ababa,2000-2005,2000,2005,30,Urban Centre,0,0,0,0,0,0,0,384
+Addis Ababa,2005-2010,2005,2010,10,Water,2,0,0,0,0,0,0,0
+Addis Ababa,2005-2010,2005,2010,11,Open spaces,0,3538,181,0,0,0,0,0
+Addis Ababa,2005-2010,2005,2010,12,Discontinuous very low density,0,34,538,2,51,0,0,8
+Addis Ababa,2005-2010,2005,2010,13,Discontinuous low density,0,0,1,15,8,3,2,0
+Addis Ababa,2005-2010,2005,2010,21,Suburban/Peri-urban,0,0,0,0,135,2,8,24
+Addis Ababa,2005-2010,2005,2010,22,Semi-dense Urban,0,0,0,0,0,2,0,1
+Addis Ababa,2005-2010,2005,2010,23,Dense Urban,0,0,0,0,0,0,34,30
+Addis Ababa,2005-2010,2005,2010,30,Urban Centre,0,0,0,0,0,0,0,423
+Addis Ababa,2010-2015,2010,2015,10,Water,2,0,0,0,0,0,0,0
+Addis Ababa,2010-2015,2010,2015,11,Open spaces,0,3179,391,0,0,0,0,2
+Addis Ababa,2010-2015,2010,2015,12,Discontinuous very low density,0,14,649,11,45,0,0,2
+Addis Ababa,2010-2015,2010,2015,13,Discontinuous low density,0,0,0,15,2,0,0,0
+Addis Ababa,2010-2015,2010,2015,21,Suburban/Peri-urban,0,0,0,0,155,4,13,23
+Addis Ababa,2010-2015,2010,2015,22,Semi-dense Urban,0,0,0,0,0,7,0,0
+Addis Ababa,2010-2015,2010,2015,23,Dense Urban,0,0,0,0,2,4,39,0
+Addis Ababa,2010-2015,2010,2015,30,Urban Centre,0,0,0,0,0,0,0,486
+Addis Ababa,2015-2020,2015,2020,10,Water,2,0,0,0,0,0,0,0
+Addis Ababa,2015-2020,2015,2020,11,Open spaces,0,2218,971,0,1,0,0,2
+Addis Ababa,2015-2020,2015,2020,12,Discontinuous very low density,0,25,853,38,120,0,0,4
+Addis Ababa,2015-2020,2015,2020,13,Discontinuous low density,0,0,2,18,6,0,0,0
+Addis Ababa,2015-2020,2015,2020,21,Suburban/Peri-urban,0,0,1,0,171,0,7,24
+Addis Ababa,2015-2020,2015,2020,22,Semi-dense Urban,0,0,0,0,2,9,4,0
+Addis Ababa,2015-2020,2015,2020,23,Dense Urban,0,0,0,0,0,0,50,2
+Addis Ababa,2015-2020,2015,2020,30,Urban Centre,0,0,0,0,1,0,0,512
+Addis Ababa,2020-2025,2020,2025,10,Water,2,0,0,0,0,0,0,0
+Addis Ababa,2020-2025,2020,2025,11,Open spaces,0,1859,383,0,0,0,0,0
+Addis Ababa,2020-2025,2020,2025,12,Discontinuous very low density,0,2,1680,51,91,0,0,3
+Addis Ababa,2020-2025,2020,2025,13,Discontinuous low density,0,0,0,56,1,0,0,0
+Addis Ababa,2020-2025,2020,2025,21,Suburban/Peri-urban,0,0,0,0,280,4,3,15
+Addis Ababa,2020-2025,2020,2025,22,Semi-dense Urban,0,0,0,0,0,7,2,0
+Addis Ababa,2020-2025,2020,2025,23,Dense Urban,0,0,0,0,0,0,54,7
+Addis Ababa,2020-2025,2020,2025,30,Urban Centre,0,0,0,0,0,0,0,544
+Dar es Salaam,1975-1980,1975,1980,10,Water,2896,0,0,0,0,0,0,0
+Dar es Salaam,1975-1980,1975,1980,11,Open spaces,0,3535,202,0,3,0,0,2
+Dar es Salaam,1975-1980,1975,1980,12,Discontinuous very low density,0,15,646,24,89,0,0,2
+Dar es Salaam,1975-1980,1975,1980,13,Discontinuous low density,0,0,1,31,21,3,0,0
+Dar es Salaam,1975-1980,1975,1980,21,Suburban/Peri-urban,0,0,0,0,167,8,8,12
+Dar es Salaam,1975-1980,1975,1980,22,Semi-dense Urban,0,0,0,0,0,3,4,0
+Dar es Salaam,1975-1980,1975,1980,23,Dense Urban,0,0,0,0,0,0,23,7
+Dar es Salaam,1975-1980,1975,1980,30,Urban Centre,0,0,0,0,0,0,0,179
+Dar es Salaam,1980-1985,1980,1985,10,Water,2895,1,0,0,0,0,0,0
+Dar es Salaam,1980-1985,1980,1985,11,Open spaces,0,3411,139,0,0,0,0,1
+Dar es Salaam,1980-1985,1980,1985,12,Discontinuous very low density,0,9,716,20,99,0,0,5
+Dar es Salaam,1980-1985,1980,1985,13,Discontinuous low density,0,0,1,34,20,0,0,0
+Dar es Salaam,1980-1985,1980,1985,21,Suburban/Peri-urban,0,0,2,0,237,8,15,18
+Dar es Salaam,1980-1985,1980,1985,22,Semi-dense Urban,0,0,0,0,0,14,0,0
+Dar es Salaam,1980-1985,1980,1985,23,Dense Urban,0,0,0,0,0,0,32,3
+Dar es Salaam,1980-1985,1980,1985,30,Urban Centre,0,0,0,0,0,0,0,202
+Dar es Salaam,1985-1990,1985,1990,10,Water,2893,1,0,0,1,0,0,0
+Dar es Salaam,1985-1990,1985,1990,11,Open spaces,0,3330,91,0,0,0,0,0
+Dar es Salaam,1985-1990,1985,1990,12,Discontinuous very low density,0,18,731,27,74,0,0,8
+Dar es Salaam,1985-1990,1985,1990,13,Discontinuous low density,0,0,1,42,11,0,0,0
+Dar es Salaam,1985-1990,1985,1990,21,Suburban/Peri-urban,0,0,0,0,265,23,14,54
+Dar es Salaam,1985-1990,1985,1990,22,Semi-dense Urban,0,0,0,0,2,16,4,0
+Dar es Salaam,1985-1990,1985,1990,23,Dense Urban,0,0,0,0,0,0,5,42
+Dar es Salaam,1985-1990,1985,1990,30,Urban Centre,0,0,0,0,0,0,0,229
+Dar es Salaam,1990-1995,1990,1995,10,Water,2893,0,0,0,0,0,0,0
+Dar es Salaam,1990-1995,1990,1995,11,Open spaces,0,3238,110,0,0,0,0,1
+Dar es Salaam,1990-1995,1990,1995,12,Discontinuous very low density,0,7,723,13,72,0,0,8
+Dar es Salaam,1990-1995,1990,1995,13,Discontinuous low density,0,0,0,43,22,4,0,0
+Dar es Salaam,1990-1995,1990,1995,21,Suburban/Peri-urban,0,0,0,0,280,11,5,57
+Dar es Salaam,1990-1995,1990,1995,22,Semi-dense Urban,0,0,0,0,13,21,5,0
+Dar es Salaam,1990-1995,1990,1995,23,Dense Urban,0,0,0,0,0,0,18,5
+Dar es Salaam,1990-1995,1990,1995,30,Urban Centre,0,0,0,0,0,0,0,333
+Dar es Salaam,1995-2000,1995,2000,10,Water,2893,0,0,0,0,0,0,0
+Dar es Salaam,1995-2000,1995,2000,11,Open spaces,0,3091,150,0,0,0,0,3
+Dar es Salaam,1995-2000,1995,2000,12,Discontinuous very low density,0,42,697,21,65,0,0,7
+Dar es Salaam,1995-2000,1995,2000,13,Discontinuous low density,0,0,0,49,7,0,0,0
+Dar es Salaam,1995-2000,1995,2000,21,Suburban/Peri-urban,0,0,1,0,320,6,8,52
+Dar es Salaam,1995-2000,1995,2000,22,Semi-dense Urban,0,0,0,0,15,10,11,0
+Dar es Salaam,1995-2000,1995,2000,23,Dense Urban,0,0,0,0,0,0,12,16
+Dar es Salaam,1995-2000,1995,2000,30,Urban Centre,0,0,0,0,0,0,0,404
+Dar es Salaam,2000-2005,2000,2005,10,Water,2892,1,0,0,0,0,0,0
+Dar es Salaam,2000-2005,2000,2005,11,Open spaces,0,3002,131,0,0,0,0,1
+Dar es Salaam,2000-2005,2000,2005,12,Discontinuous very low density,0,17,750,15,56,0,0,10
+Dar es Salaam,2000-2005,2000,2005,13,Discontinuous low density,0,0,2,62,3,3,0,0
+Dar es Salaam,2000-2005,2000,2005,21,Suburban/Peri-urban,0,0,0,0,325,5,13,64
+Dar es Salaam,2000-2005,2000,2005,22,Semi-dense Urban,0,0,0,0,4,7,5,0
+Dar es Salaam,2000-2005,2000,2005,23,Dense Urban,0,0,0,0,0,0,31,0
+Dar es Salaam,2000-2005,2000,2005,30,Urban Centre,0,0,0,0,0,0,0,482
+Dar es Salaam,2005-2010,2005,2010,10,Water,2890,0,1,0,0,0,0,1
+Dar es Salaam,2005-2010,2005,2010,11,Open spaces,0,2874,146,0,0,0,0,0
+Dar es Salaam,2005-2010,2005,2010,12,Discontinuous very low density,0,13,787,13,65,0,0,5
+Dar es Salaam,2005-2010,2005,2010,13,Discontinuous low density,0,0,0,52,21,4,0,0
+Dar es Salaam,2005-2010,2005,2010,21,Suburban/Peri-urban,0,0,1,0,287,1,17,82
+Dar es Salaam,2005-2010,2005,2010,22,Semi-dense Urban,0,0,0,0,2,13,0,0
+Dar es Salaam,2005-2010,2005,2010,23,Dense Urban,0,0,0,0,0,0,39,10
+Dar es Salaam,2005-2010,2005,2010,30,Urban Centre,0,0,0,0,0,0,0,557
+Dar es Salaam,2010-2015,2010,2015,10,Water,2887,2,0,0,0,0,0,1
+Dar es Salaam,2010-2015,2010,2015,11,Open spaces,0,2700,187,0,0,0,0,0
+Dar es Salaam,2010-2015,2010,2015,12,Discontinuous very low density,0,9,825,20,79,0,0,2
+Dar es Salaam,2010-2015,2010,2015,13,Discontinuous low density,0,0,0,56,9,0,0,0
+Dar es Salaam,2010-2015,2010,2015,21,Suburban/Peri-urban,0,0,1,0,274,13,4,83
+Dar es Salaam,2010-2015,2010,2015,22,Semi-dense Urban,0,0,0,0,2,16,0,0
+Dar es Salaam,2010-2015,2010,2015,23,Dense Urban,0,0,0,0,0,0,12,44
+Dar es Salaam,2010-2015,2010,2015,30,Urban Centre,0,0,0,0,0,0,0,655
+Dar es Salaam,2015-2020,2015,2020,10,Water,2883,3,0,0,0,0,0,1
+Dar es Salaam,2015-2020,2015,2020,11,Open spaces,0,2365,345,0,0,0,0,1
+Dar es Salaam,2015-2020,2015,2020,12,Discontinuous very low density,0,10,859,19,120,0,0,6
+Dar es Salaam,2015-2020,2015,2020,13,Discontinuous low density,0,0,0,53,23,0,0,0
+Dar es Salaam,2015-2020,2015,2020,21,Suburban/Peri-urban,0,0,0,0,289,4,6,65
+Dar es Salaam,2015-2020,2015,2020,22,Semi-dense Urban,0,0,0,0,6,19,4,0
+Dar es Salaam,2015-2020,2015,2020,23,Dense Urban,0,0,0,0,0,0,6,10
+Dar es Salaam,2015-2020,2015,2020,30,Urban Centre,0,0,0,0,0,0,0,785
+Dar es Salaam,2020-2025,2020,2025,10,Water,2880,1,0,0,0,0,0,2
+Dar es Salaam,2020-2025,2020,2025,11,Open spaces,0,2189,185,0,0,0,0,4
+Dar es Salaam,2020-2025,2020,2025,12,Discontinuous very low density,0,11,1079,25,80,0,0,8
+Dar es Salaam,2020-2025,2020,2025,13,Discontinuous low density,0,0,0,51,17,4,0,0
+Dar es Salaam,2020-2025,2020,2025,21,Suburban/Peri-urban,0,0,0,0,377,9,5,47
+Dar es Salaam,2020-2025,2020,2025,22,Semi-dense Urban,0,0,0,0,2,17,4,0
+Dar es Salaam,2020-2025,2020,2025,23,Dense Urban,0,0,0,0,0,0,8,8
+Dar es Salaam,2020-2025,2020,2025,30,Urban Centre,0,0,0,0,0,0,0,868
+Kampala,1975-1980,1975,1980,10,Water,5289,12,8,0,0,0,0,0
+Kampala,1975-1980,1975,1980,11,Open spaces,0,7413,698,1,1,0,0,1
+Kampala,1975-1980,1975,1980,12,Discontinuous very low density,0,56,5539,101,114,0,0,3
+Kampala,1975-1980,1975,1980,13,Discontinuous low density,0,0,20,277,30,2,0,0
+Kampala,1975-1980,1975,1980,21,Suburban/Peri-urban,0,0,5,0,332,5,9,16
+Kampala,1975-1980,1975,1980,22,Semi-dense Urban,0,0,0,0,0,14,4,0
+Kampala,1975-1980,1975,1980,23,Dense Urban,0,0,0,0,1,0,51,0
+Kampala,1975-1980,1975,1980,30,Urban Centre,0,0,0,0,0,0,0,174
+Kampala,1980-1985,1980,1985,10,Water,5271,13,5,0,0,0,0,0
+Kampala,1980-1985,1980,1985,11,Open spaces,0,6821,660,0,0,0,0,0
+Kampala,1980-1985,1980,1985,12,Discontinuous very low density,0,148,5771,159,190,0,1,1
+Kampala,1980-1985,1980,1985,13,Discontinuous low density,0,0,37,259,73,10,0,0
+Kampala,1980-1985,1980,1985,21,Suburban/Peri-urban,0,0,16,1,434,9,8,10
+Kampala,1980-1985,1980,1985,22,Semi-dense Urban,0,0,0,0,1,16,4,0
+Kampala,1980-1985,1980,1985,23,Dense Urban,0,0,0,0,0,0,64,0
+Kampala,1980-1985,1980,1985,30,Urban Centre,0,0,0,0,0,0,0,194
+Kampala,1985-1990,1985,1990,10,Water,5262,4,4,1,0,0,0,0
+Kampala,1985-1990,1985,1990,11,Open spaces,0,6450,532,0,0,0,0,0
+Kampala,1985-1990,1985,1990,12,Discontinuous very low density,0,87,6018,171,212,0,0,1
+Kampala,1985-1990,1985,1990,13,Discontinuous low density,0,0,29,276,99,15,0,0
+Kampala,1985-1990,1985,1990,21,Suburban/Peri-urban,0,0,12,3,627,16,23,16
+Kampala,1985-1990,1985,1990,22,Semi-dense Urban,0,0,0,0,2,15,18,0
+Kampala,1985-1990,1985,1990,23,Dense Urban,0,0,0,0,0,0,77,0
+Kampala,1985-1990,1985,1990,30,Urban Centre,0,0,0,0,0,0,0,205
+Kampala,1990-1995,1990,1995,10,Water,5251,5,4,1,1,0,0,0
+Kampala,1990-1995,1990,1995,11,Open spaces,0,5910,631,0,0,0,0,1
+Kampala,1990-1995,1990,1995,12,Discontinuous very low density,0,32,6170,188,204,0,0,1
+Kampala,1990-1995,1990,1995,13,Discontinuous low density,0,0,5,354,83,9,0,0
+Kampala,1990-1995,1990,1995,21,Suburban/Peri-urban,0,0,9,1,836,19,15,60
+Kampala,1990-1995,1990,1995,22,Semi-dense Urban,0,0,0,0,7,30,9,0
+Kampala,1990-1995,1990,1995,23,Dense Urban,0,0,0,0,0,0,76,42
+Kampala,1990-1995,1990,1995,30,Urban Centre,0,0,0,0,0,0,0,222
+Kampala,1995-2000,1995,2000,10,Water,5246,4,1,0,0,0,0,0
+Kampala,1995-2000,1995,2000,11,Open spaces,0,5401,546,0,0,0,0,0
+Kampala,1995-2000,1995,2000,12,Discontinuous very low density,0,74,6276,233,234,0,0,2
+Kampala,1995-2000,1995,2000,13,Discontinuous low density,0,0,11,456,72,5,0,0
+Kampala,1995-2000,1995,2000,21,Suburban/Peri-urban,0,0,15,1,998,24,21,72
+Kampala,1995-2000,1995,2000,22,Semi-dense Urban,0,0,0,0,5,37,16,0
+Kampala,1995-2000,1995,2000,23,Dense Urban,0,0,0,0,0,0,85,15
+Kampala,1995-2000,1995,2000,30,Urban Centre,0,0,0,0,2,0,0,324
+Kampala,2000-2005,2000,2005,10,Water,5234,10,2,0,0,0,0,0
+Kampala,2000-2005,2000,2005,11,Open spaces,0,4691,786,0,0,0,0,2
+Kampala,2000-2005,2000,2005,12,Discontinuous very low density,0,9,6346,172,320,0,0,2
+Kampala,2000-2005,2000,2005,13,Discontinuous low density,0,0,12,521,146,10,0,0
+Kampala,2000-2005,2000,2005,21,Suburban/Peri-urban,0,0,1,0,1214,16,23,58
+Kampala,2000-2005,2000,2005,22,Semi-dense Urban,0,0,0,0,6,47,13,0
+Kampala,2000-2005,2000,2005,23,Dense Urban,0,0,0,0,0,0,114,8
+Kampala,2000-2005,2000,2005,30,Urban Centre,0,0,0,0,0,0,0,413
+Kampala,2005-2010,2005,2010,10,Water,5223,9,2,0,0,0,0,0
+Kampala,2005-2010,2005,2010,11,Open spaces,0,3970,739,0,0,0,0,2
+Kampala,2005-2010,2005,2010,12,Discontinuous very low density,0,34,6396,238,468,0,0,11
+Kampala,2005-2010,2005,2010,13,Discontinuous low density,0,0,23,471,197,2,0,0
+Kampala,2005-2010,2005,2010,21,Suburban/Peri-urban,0,0,11,2,1555,22,9,87
+Kampala,2005-2010,2005,2010,22,Semi-dense Urban,0,0,0,0,1,72,0,0
+Kampala,2005-2010,2005,2010,23,Dense Urban,0,0,0,0,0,0,98,52
+Kampala,2005-2010,2005,2010,30,Urban Centre,0,0,0,0,0,0,0,483
+Kampala,2010-2015,2010,2015,10,Water,5215,2,4,2,0,0,0,0
+Kampala,2010-2015,2010,2015,11,Open spaces,0,3545,457,0,1,0,0,9
+Kampala,2010-2015,2010,2015,12,Discontinuous very low density,0,39,6269,232,618,0,0,12
+Kampala,2010-2015,2010,2015,13,Discontinuous low density,0,0,29,430,247,6,0,0
+Kampala,2010-2015,2010,2015,21,Suburban/Peri-urban,0,0,12,12,2080,17,14,86
+Kampala,2010-2015,2010,2015,22,Semi-dense Urban,0,0,0,0,12,78,6,0
+Kampala,2010-2015,2010,2015,23,Dense Urban,0,0,0,0,0,0,107,0
+Kampala,2010-2015,2010,2015,30,Urban Centre,0,0,0,0,0,0,0,635
+Kampala,2015-2020,2015,2020,10,Water,5206,4,2,0,2,0,0,1
+Kampala,2015-2020,2015,2020,11,Open spaces,0,3207,379,0,0,0,0,0
+Kampala,2015-2020,2015,2020,12,Discontinuous very low density,0,43,5529,249,944,0,0,7
+Kampala,2015-2020,2015,2020,13,Discontinuous low density,0,0,19,343,313,0,0,0
+Kampala,2015-2020,2015,2020,21,Suburban/Peri-urban,0,0,13,6,2817,43,12,67
+Kampala,2015-2020,2015,2020,22,Semi-dense Urban,0,0,0,2,12,83,4,0
+Kampala,2015-2020,2015,2020,23,Dense Urban,0,0,0,0,0,4,95,28
+Kampala,2015-2020,2015,2020,30,Urban Centre,0,0,0,0,0,0,0,742
+Kampala,2020-2025,2020,2025,10,Water,5196,1,3,1,4,0,0,1
+Kampala,2020-2025,2020,2025,11,Open spaces,0,3083,169,0,1,0,0,2
+Kampala,2020-2025,2020,2025,12,Discontinuous very low density,0,64,4905,141,829,0,0,2
+Kampala,2020-2025,2020,2025,13,Discontinuous low density,0,0,8,359,233,0,0,0
+Kampala,2020-2025,2020,2025,21,Suburban/Peri-urban,0,0,20,0,3922,81,14,51
+Kampala,2020-2025,2020,2025,22,Semi-dense Urban,0,0,0,0,16,105,9,0
+Kampala,2020-2025,2020,2025,23,Dense Urban,0,0,0,0,0,0,81,30
+Kampala,2020-2025,2020,2025,30,Urban Centre,0,1,1,0,2,0,0,841
+Nairobi,1975-1980,1975,1980,10,Water,1,0,0,0,0,0,0,0
+Nairobi,1975-1980,1975,1980,11,Open spaces,0,7906,290,3,5,0,0,0
+Nairobi,1975-1980,1975,1980,12,Discontinuous very low density,0,45,1436,42,230,0,0,4
+Nairobi,1975-1980,1975,1980,13,Discontinuous low density,0,0,20,110,41,1,1,0
+Nairobi,1975-1980,1975,1980,21,Suburban/Peri-urban,0,0,26,15,799,15,17,26
+Nairobi,1975-1980,1975,1980,22,Semi-dense Urban,0,0,0,0,9,37,8,0
+Nairobi,1975-1980,1975,1980,23,Dense Urban,0,0,0,0,0,0,99,14
+Nairobi,1975-1980,1975,1980,30,Urban Centre,0,0,0,0,0,0,0,148
+Nairobi,1980-1985,1980,1985,10,Water,1,0,0,0,0,0,0,0
+Nairobi,1980-1985,1980,1985,11,Open spaces,0,7690,258,2,0,0,0,1
+Nairobi,1980-1985,1980,1985,12,Discontinuous very low density,0,42,1364,29,336,0,0,1
+Nairobi,1980-1985,1980,1985,13,Discontinuous low density,0,0,10,94,62,4,0,0
+Nairobi,1980-1985,1980,1985,21,Suburban/Peri-urban,0,0,21,1,993,17,25,28
+Nairobi,1980-1985,1980,1985,22,Semi-dense Urban,0,0,0,0,4,39,10,0
+Nairobi,1980-1985,1980,1985,23,Dense Urban,0,0,0,0,0,0,95,30
+Nairobi,1980-1985,1980,1985,30,Urban Centre,0,0,0,0,0,0,0,192
+Nairobi,1985-1990,1985,1990,10,Water,1,0,0,0,0,0,0,0
+Nairobi,1985-1990,1985,1990,11,Open spaces,0,7524,207,1,1,0,0,0
+Nairobi,1985-1990,1985,1990,12,Discontinuous very low density,0,32,1313,29,275,0,0,5
+Nairobi,1985-1990,1985,1990,13,Discontinuous low density,0,0,3,85,36,2,0,0
+Nairobi,1985-1990,1985,1990,21,Suburban/Peri-urban,0,0,10,2,1296,23,21,43
+Nairobi,1985-1990,1985,1990,22,Semi-dense Urban,0,0,0,0,6,45,9,0
+Nairobi,1985-1990,1985,1990,23,Dense Urban,0,0,0,0,0,0,121,9
+Nairobi,1985-1990,1985,1990,30,Urban Centre,0,0,0,0,0,0,0,252
+Nairobi,1990-1995,1990,1995,10,Water,1,0,0,0,0,0,0,0
+Nairobi,1990-1995,1990,1995,11,Open spaces,0,7316,233,3,4,0,0,0
+Nairobi,1990-1995,1990,1995,12,Discontinuous very low density,0,52,1275,22,178,0,0,5
+Nairobi,1990-1995,1990,1995,13,Discontinuous low density,0,0,8,81,24,0,4,0
+Nairobi,1990-1995,1990,1995,21,Suburban/Peri-urban,0,0,7,1,1511,23,29,43
+Nairobi,1990-1995,1990,1995,22,Semi-dense Urban,0,0,0,0,3,59,8,0
+Nairobi,1990-1995,1990,1995,23,Dense Urban,0,0,0,0,0,0,121,30
+Nairobi,1990-1995,1990,1995,30,Urban Centre,0,0,0,0,0,0,0,309
+Nairobi,1995-2000,1995,2000,10,Water,1,0,0,0,0,0,0,0
+Nairobi,1995-2000,1995,2000,11,Open spaces,0,7173,196,0,0,0,0,0
+Nairobi,1995-2000,1995,2000,12,Discontinuous very low density,0,63,1258,22,178,0,0,1
+Nairobi,1995-2000,1995,2000,13,Discontinuous low density,0,0,9,63,25,10,0,0
+Nairobi,1995-2000,1995,2000,21,Suburban/Peri-urban,0,0,13,2,1632,29,19,26
+Nairobi,1995-2000,1995,2000,22,Semi-dense Urban,0,0,0,0,11,65,6,0
+Nairobi,1995-2000,1995,2000,23,Dense Urban,0,0,0,0,0,0,123,39
+Nairobi,1995-2000,1995,2000,30,Urban Centre,0,0,0,0,0,0,0,387
+Nairobi,2000-2005,2000,2005,10,Water,1,0,0,0,0,0,0,0
+Nairobi,2000-2005,2000,2005,11,Open spaces,0,6872,359,1,3,0,0,1
+Nairobi,2000-2005,2000,2005,12,Discontinuous very low density,0,57,1230,15,169,0,0,2
+Nairobi,2000-2005,2000,2005,13,Discontinuous low density,0,0,16,55,16,0,0,0
+Nairobi,2000-2005,2000,2005,21,Suburban/Peri-urban,0,0,5,2,1733,53,27,26
+Nairobi,2000-2005,2000,2005,22,Semi-dense Urban,0,0,0,1,14,82,7,0
+Nairobi,2000-2005,2000,2005,23,Dense Urban,0,0,0,0,0,3,137,8
+Nairobi,2000-2005,2000,2005,30,Urban Centre,0,0,0,0,0,0,0,453
+Nairobi,2005-2010,2005,2010,10,Water,1,0,0,0,0,0,0,0
+Nairobi,2005-2010,2005,2010,11,Open spaces,0,6565,364,0,0,0,0,0
+Nairobi,2005-2010,2005,2010,12,Discontinuous very low density,0,47,1338,21,203,0,0,2
+Nairobi,2005-2010,2005,2010,13,Discontinuous low density,0,0,11,55,8,0,0,0
+Nairobi,2005-2010,2005,2010,21,Suburban/Peri-urban,0,0,8,9,1832,37,17,33
+Nairobi,2005-2010,2005,2010,22,Semi-dense Urban,0,0,0,0,14,120,4,0
+Nairobi,2005-2010,2005,2010,23,Dense Urban,0,0,0,0,0,3,141,27
+Nairobi,2005-2010,2005,2010,30,Urban Centre,0,0,1,0,4,0,0,485
+Nairobi,2010-2015,2010,2015,10,Water,0,0,1,0,0,0,0,0
+Nairobi,2010-2015,2010,2015,11,Open spaces,0,6247,364,0,0,0,0,1
+Nairobi,2010-2015,2010,2015,12,Discontinuous very low density,0,60,1472,15,174,0,0,2
+Nairobi,2010-2015,2010,2015,13,Discontinuous low density,0,0,2,56,27,0,0,0
+Nairobi,2010-2015,2010,2015,21,Suburban/Peri-urban,0,0,8,0,1965,26,16,44
+Nairobi,2010-2015,2010,2015,22,Semi-dense Urban,0,0,0,0,13,147,0,0
+Nairobi,2010-2015,2010,2015,23,Dense Urban,0,0,0,0,4,2,118,38
+Nairobi,2010-2015,2010,2015,30,Urban Centre,0,0,0,0,0,0,0,547
+Nairobi,2015-2020,2015,2020,11,Open spaces,0,5846,455,0,0,0,0,6
+Nairobi,2015-2020,2015,2020,12,Discontinuous very low density,0,106,1522,19,198,0,0,1
+Nairobi,2015-2020,2015,2020,13,Discontinuous low density,0,0,24,36,11,0,0,0
+Nairobi,2015-2020,2015,2020,21,Suburban/Peri-urban,0,0,33,3,2072,26,24,25
+Nairobi,2015-2020,2015,2020,22,Semi-dense Urban,0,0,0,0,27,148,0,0
+Nairobi,2015-2020,2015,2020,23,Dense Urban,0,0,0,0,5,2,123,4
+Nairobi,2015-2020,2015,2020,30,Urban Centre,0,0,0,0,0,0,0,632
+Nairobi,2020-2025,2020,2025,11,Open spaces,0,5750,194,0,0,0,0,8
+Nairobi,2020-2025,2020,2025,12,Discontinuous very low density,0,24,1884,18,97,0,0,12
+Nairobi,2020-2025,2020,2025,13,Discontinuous low density,0,0,6,45,7,0,0,0
+Nairobi,2020-2025,2020,2025,21,Suburban/Peri-urban,0,0,26,0,2206,25,8,49
+Nairobi,2020-2025,2020,2025,22,Semi-dense Urban,0,0,0,0,33,142,0,1
+Nairobi,2020-2025,2020,2025,23,Dense Urban,0,0,0,0,1,6,107,33
+Nairobi,2020-2025,2020,2025,30,Urban Centre,0,0,0,0,5,0,0,663

@@ -1,0 +1,360 @@
+{
+  "passed": true,
+  "files": {
+    "R3_9_ROI_Addis_Ababa.geojson": {
+      "feature_count": 1,
+      "types": [
+        "Polygon"
+      ],
+      "cities": [
+        "Addis Ababa"
+      ],
+      "properties": [
+        {
+          "center_lat": 9.009,
+          "center_lon": 38.7578,
+          "city": "Addis Ababa",
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "analytical_circular_roi",
+          "radius_m": 40000,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        }
+      ]
+    },
+    "R3_9_ROI_Dar_es_Salaam.geojson": {
+      "feature_count": 1,
+      "types": [
+        "Polygon"
+      ],
+      "cities": [
+        "Dar es Salaam"
+      ],
+      "properties": [
+        {
+          "center_lat": -6.7924,
+          "center_lon": 39.2083,
+          "city": "Dar es Salaam",
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "analytical_circular_roi",
+          "radius_m": 50000,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        }
+      ]
+    },
+    "R3_9_ROI_Kampala.geojson": {
+      "feature_count": 1,
+      "types": [
+        "Polygon"
+      ],
+      "cities": [
+        "Kampala"
+      ],
+      "properties": [
+        {
+          "center_lat": 0.3476,
+          "center_lon": 32.5825,
+          "city": "Kampala",
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "analytical_circular_roi",
+          "radius_m": 80000,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        }
+      ]
+    },
+    "R3_9_ROI_Nairobi.geojson": {
+      "feature_count": 1,
+      "types": [
+        "Polygon"
+      ],
+      "cities": [
+        "Nairobi"
+      ],
+      "properties": [
+        {
+          "center_lat": -1.2921,
+          "center_lon": 36.8219,
+          "city": "Nairobi",
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "analytical_circular_roi",
+          "radius_m": 60000,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        }
+      ]
+    },
+    "R3_9_analytical_circular_ROIs_all_cities.geojson": {
+      "feature_count": 4,
+      "types": [
+        "Polygon",
+        "Polygon",
+        "Polygon",
+        "Polygon"
+      ],
+      "cities": [
+        "Addis Ababa",
+        "Nairobi",
+        "Dar es Salaam",
+        "Kampala"
+      ],
+      "properties": [
+        {
+          "center_lat": 9.009,
+          "center_lon": 38.7578,
+          "city": "Addis Ababa",
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "analytical_circular_roi",
+          "radius_m": 40000,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        },
+        {
+          "center_lat": -1.2921,
+          "center_lon": 36.8219,
+          "city": "Nairobi",
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "analytical_circular_roi",
+          "radius_m": 60000,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        },
+        {
+          "center_lat": -6.7924,
+          "center_lon": 39.2083,
+          "city": "Dar es Salaam",
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "analytical_circular_roi",
+          "radius_m": 50000,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        },
+        {
+          "center_lat": 0.3476,
+          "center_lon": 32.5825,
+          "city": "Kampala",
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "analytical_circular_roi",
+          "radius_m": 80000,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        }
+      ]
+    },
+    "R3_9_largest_SMOD_class30_patch_2025_Addis_Ababa.geojson": {
+      "feature_count": 1,
+      "types": [
+        "Polygon"
+      ],
+      "cities": [
+        "Addis Ababa"
+      ],
+      "properties": [
+        {
+          "area_m2": 463961159.4303662,
+          "center_lat": 9.009,
+          "center_lon": 38.7578,
+          "city": "Addis Ababa",
+          "connectivity": "eight-connected",
+          "count": 465,
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "largest_contiguous_smod_class30_patch",
+          "perimeter_m": 170735.09339058658,
+          "rank": 1,
+          "roi_radius_m": 40000,
+          "smod_class": 30,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_epoch": 2025,
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        }
+      ]
+    },
+    "R3_9_largest_SMOD_class30_patch_2025_Dar_es_Salaam.geojson": {
+      "feature_count": 1,
+      "types": [
+        "Polygon"
+      ],
+      "cities": [
+        "Dar es Salaam"
+      ],
+      "properties": [
+        {
+          "area_m2": 904975502.1318372,
+          "center_lat": -6.7924,
+          "center_lon": 39.2083,
+          "city": "Dar es Salaam",
+          "connectivity": "eight-connected",
+          "count": 907,
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "largest_contiguous_smod_class30_patch",
+          "perimeter_m": 249366.4305905552,
+          "rank": 1,
+          "roi_radius_m": 50000,
+          "smod_class": 30,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_epoch": 2025,
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        }
+      ]
+    },
+    "R3_9_largest_SMOD_class30_patch_2025_Kampala.geojson": {
+      "feature_count": 1,
+      "types": [
+        "Polygon"
+      ],
+      "cities": [
+        "Kampala"
+      ],
+      "properties": [
+        {
+          "area_m2": 811183200.956345,
+          "center_lat": 0.3476,
+          "center_lon": 32.5825,
+          "city": "Kampala",
+          "connectivity": "eight-connected",
+          "count": 813,
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "largest_contiguous_smod_class30_patch",
+          "perimeter_m": 254908.53307944376,
+          "rank": 1,
+          "roi_radius_m": 80000,
+          "smod_class": 30,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_epoch": 2025,
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        }
+      ]
+    },
+    "R3_9_largest_SMOD_class30_patch_2025_Nairobi.geojson": {
+      "feature_count": 1,
+      "types": [
+        "MultiPolygon"
+      ],
+      "cities": [
+        "Nairobi"
+      ],
+      "properties": [
+        {
+          "area_m2": 647550040.3871193,
+          "center_lat": -1.2921,
+          "center_lon": 36.8219,
+          "city": "Nairobi",
+          "connectivity": "eight-connected",
+          "count": 649,
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "largest_contiguous_smod_class30_patch",
+          "perimeter_m": 244985.69054916807,
+          "rank": 1,
+          "roi_radius_m": 60000,
+          "smod_class": 30,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_epoch": 2025,
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        }
+      ]
+    },
+    "R3_9_largest_SMOD_class30_patches_2025_all_cities.geojson": {
+      "feature_count": 4,
+      "types": [
+        "Polygon",
+        "MultiPolygon",
+        "Polygon",
+        "Polygon"
+      ],
+      "cities": [
+        "Addis Ababa",
+        "Nairobi",
+        "Dar es Salaam",
+        "Kampala"
+      ],
+      "properties": [
+        {
+          "area_m2": 463961159.43036693,
+          "center_lat": 9.009,
+          "center_lon": 38.7578,
+          "city": "Addis Ababa",
+          "connectivity": "eight-connected",
+          "count": 465,
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "largest_contiguous_smod_class30_patch",
+          "perimeter_m": 170735.09339058504,
+          "rank": 1,
+          "roi_radius_m": 40000,
+          "smod_class": 30,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_epoch": 2025,
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        },
+        {
+          "area_m2": 647550040.3871193,
+          "center_lat": -1.2921,
+          "center_lon": 36.8219,
+          "city": "Nairobi",
+          "connectivity": "eight-connected",
+          "count": 649,
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "largest_contiguous_smod_class30_patch",
+          "perimeter_m": 244985.69054916807,
+          "rank": 1,
+          "roi_radius_m": 60000,
+          "smod_class": 30,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_epoch": 2025,
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        },
+        {
+          "area_m2": 904975502.1318328,
+          "center_lat": -6.7924,
+          "center_lon": 39.2083,
+          "city": "Dar es Salaam",
+          "connectivity": "eight-connected",
+          "count": 907,
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "largest_contiguous_smod_class30_patch",
+          "perimeter_m": 249366.43059055295,
+          "rank": 1,
+          "roi_radius_m": 50000,
+          "smod_class": 30,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_epoch": 2025,
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        },
+        {
+          "area_m2": 811183200.9563402,
+          "center_lat": 0.3476,
+          "center_lon": 32.5825,
+          "city": "Kampala",
+          "connectivity": "eight-connected",
+          "count": 813,
+          "crs_interpretation": "WGS 84 geographic coordinates / EPSG:4326 (GEE default; source has no explicit CRS declaration)",
+          "export_scale_m": 1000,
+          "geometry_role": "largest_contiguous_smod_class30_patch",
+          "perimeter_m": 254908.53307944373,
+          "rank": 1,
+          "roi_radius_m": 80000,
+          "smod_class": 30,
+          "source_asset": "JRC/GHSL/P2023A/GHS_SMOD",
+          "source_epoch": 2025,
+          "source_file": "20251222_SMOD_east_africa_legacy.txt"
+        }
+      ]
+    }
+  },
+  "errors": []
+}

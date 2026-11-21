@@ -1,0 +1,37 @@
+{
+  "source_long_file": "/home/sandbox/r3_4_smod_class_transition_counts.csv",
+  "source_matrix_file": "/home/sandbox/r3_4_smod_class_transition_counts_matrix.csv",
+  "cities": [
+    "Addis Ababa",
+    "Dar es Salaam",
+    "Kampala",
+    "Nairobi"
+  ],
+  "interval_count": 10,
+  "intervals": [
+    "1975-1980",
+    "1980-1985",
+    "1985-1990",
+    "1990-1995",
+    "1995-2000",
+    "2000-2005",
+    "2005-2010",
+    "2010-2015",
+    "2015-2020",
+    "2020-2025"
+  ],
+  "long_rows": 1222,
+  "matrix_rows": 318,
+  "nonzero_union_pairs": 971,
+  "nonzero_count_mismatches": 0,
+  "explicit_zero_rows": 251,
+  "sampling_scales_m": [
+    1000
+  ],
+  "negative_count_rows": 0,
+  "negative_area_rows": 0,
+  "area_equals_count_all_rows": true,
+  "duplicate_long_keys": 0,
+  "duplicate_matrix_keys": 0,
+  "validation_passed": true
+}

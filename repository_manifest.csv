@@ -1,0 +1,36 @@
+reviewer_comment,path,status,provenance_or_note
+R3.2,supplementary_tables/r3_2_spatial_extent_sensitivity.csv,ready,Verified manuscript Table 7
+R3.2,supplementary_tables/r3_2_settlement_mask_sensitivity.csv,ready,Verified manuscript Table 8
+R3.2,supplementary_tables/r3_2_indicator_definition_sensitivity.csv,ready,Verified manuscript Table 9
+R3.2,supplementary_tables/r3_2_monte_carlo_input_noise_summary.csv,ready,Verified manuscript Table 10
+R3.2,supplementary_tables/r3_2_correlation_robustness_full.csv,ready,Existing verified correlation CSV
+R3.4,supplementary_tables/r3_4_smod_class_transition_counts.csv,ready,Direct copy of supplied executed Colab output; validated long-form table
+R3.4,supplementary_tables/r3_4_smod_class_transition_counts_matrix.csv,ready,Direct copy of supplied executed Colab output; validated wide matrix
+R3.4,supplementary_tables/r3_4_smod_transition_generation_specification.md,ready,Validated export logic and reconciliation details
+R3.4,validation/r3_4_transition_validation.json,ready,Machine-readable cross-file validation record
+R3.9,code/20261116_urban_expansion_in_4_eastafrican_cites.ipynb,ready,Executed organized notebook supplied by user; package path retained for compatibility
+R3.9,parameters/processing_parameters.json,ready,Assets epochs scale radii SMOD classes and complete geometry-export metadata
+R3.9,supplementary_tables/r3_9_epoch_level_inputs_outputs.csv,ready,Captured notebook D1-D3 output
+R3.9,supplementary_tables/r3_9_epoch_level_rates.csv,ready,Captured notebook A1-A3 output
+R3.9,supplementary_tables/r3_9_table4_all_intervals.csv,ready,Captured notebook B1 output
+R3.9,supplementary_tables/r3_9_table4_observed_only.csv,ready,Captured notebook B2 output
+R3.9,boundaries/README.md,ready,Final geometry documentation and interpretation
+R3.9,boundaries/R3_9_ROI_Addis_Ababa.geojson,ready,Validated exact circular analytical ROI
+R3.9,boundaries/R3_9_ROI_Dar_es_Salaam.geojson,ready,Validated exact circular analytical ROI
+R3.9,boundaries/R3_9_ROI_Kampala.geojson,ready,Validated exact circular analytical ROI
+R3.9,boundaries/R3_9_ROI_Nairobi.geojson,ready,Validated exact circular analytical ROI
+R3.9,boundaries/R3_9_analytical_circular_ROIs_all_cities.geojson,ready,Validated combined four-city ROI backup
+R3.9,boundaries/R3_9_largest_SMOD_class30_patch_2025_Addis_Ababa.geojson,ready,Validated largest contiguous 2025 SMOD class-30 patch
+R3.9,boundaries/R3_9_largest_SMOD_class30_patch_2025_Dar_es_Salaam.geojson,ready,Validated largest contiguous 2025 SMOD class-30 patch
+R3.9,boundaries/R3_9_largest_SMOD_class30_patch_2025_Kampala.geojson,ready,Validated largest contiguous 2025 SMOD class-30 patch
+R3.9,boundaries/R3_9_largest_SMOD_class30_patch_2025_Nairobi.geojson,ready,Validated largest contiguous 2025 SMOD class-30 patch
+R3.9,boundaries/R3_9_largest_SMOD_class30_patches_2025_all_cities.geojson,ready,Validated combined four-city class-30 patch backup
+R3.9,figures/,ready,Six supplied 600-dpi PNGs
+R3.9,provenance/legacy_gee/20251222_SMOD_east_africa_legacy.txt,included_provenance,Supplied pre-Colab GEE source; city centers radii GEE default coordinate interpretation and legacy bounds() ROI construction documented
+R3.9,provenance/legacy_gee/20251222_SMOD_east_africa_r3_9_geometry_exports.js,included_provenance,Modified GEE script for exact circular ROIs and largest 2025 SMOD class-30 patch exports
+R3.9,provenance/legacy_gee/README.md,ready,Legacy-file interpretation and limitations
+R3.9,validation/r3_9_legacy_gee_provenance.json,ready,Machine-readable legacy center radius CRS interpretation and bounds() record
+R3.9,validation/r3_9_geometry_validation.json,ready,Machine-readable validation of all ten supplied GeoJSON exports
+R3.9,CITATION.cff,ready,Versioned citation metadata for the software and reproducibility package
+R3.9,LICENSE-CODE,ready,MIT license for code and scripts
+R3.9,LICENSE-DATA.md,ready,CC BY 4.0 notice for derived data figures and documentation

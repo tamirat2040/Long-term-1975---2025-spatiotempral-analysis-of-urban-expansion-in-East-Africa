@@ -1,0 +1,9 @@
+city,phi,median_lcrpgr,p5_p95_lcrpgr,median_ratio_of_means,share_lcrpgr_le_1_percent,share_unstable_interval_percent
+Addis Ababa,0,0.74,-2.89 to 4.93,0.773,64.7,70.2
+Dar es Salaam,0,0.57,-0.39 to 1.53,0.437,87.7,25.5
+Kampala,0,1.08,-2.38 to 3.93,0.915,44.2,50.1
+Nairobi,0,0.83,-2.43 to 4.85,0.884,59.7,73.3
+Addis Ababa,0.5,0.94,-1.58 to 2.58,0.770,57.3,32.5
+Dar es Salaam,0.5,0.52,0.42 to 0.90,0.435,96.3,4.2
+Kampala,0.5,1.12,-0.25 to 3.00,0.916,28.0,17.4
+Nairobi,0.5,1.02,-1.30 to 3.44,0.886,47.5,40.6

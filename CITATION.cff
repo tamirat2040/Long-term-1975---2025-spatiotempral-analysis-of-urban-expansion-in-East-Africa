@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the versioned software and reproducibility package."
+title: "Long-Term Spatiotemporal Analysis of Urban Expansion and SDG 11.3.1-Based Land Use Efficiency in Major East African Cities Using Global Human Settlement Layer Data and Google Earth Engine"
+version: "1.0.0-r3.9"
+date-released: 2026-11-18
+type: software
+license: MIT
+repository-code: "https://github.com/tamirat2040/East_Africa_urban_expansion"
+url: "https://doi.org/10.5281/zenodo.24333717"
+doi: "10.5281/zenodo.24333717"
+abstract: "Reproducibility package for long-term urban-expansion and SDG 11.3.1 land-use-efficiency analyses in Addis Ababa, Dar es Salaam, Kampala, and Nairobi. Code and scripts are distributed under the MIT License; derived data, figures, GeoJSON files, notebook narrative text, and documentation are distributed under CC BY 4.0 as specified in LICENSE-DATA.md."
+keywords:
+  - urban expansion
+  - SDG 11.3.1
+  - land use efficiency
+  - LCRPGR
+  - East Africa
+  - Global Human Settlement Layer
+  - Google Earth Engine
+authors:
+  - family-names: Nebiyu
+    given-names: "Tamirat F."
+  - family-names: Terfa
+    given-names: "Berhanu K."
+  - family-names: Hailu
+    given-names: "Binyam T."
+  - family-names: Benti
+    given-names: "Natei E."

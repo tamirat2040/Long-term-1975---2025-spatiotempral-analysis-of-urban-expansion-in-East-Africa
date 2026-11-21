@@ -1,0 +1,5 @@
+city,lcr_lowest,lcr_lowest_year,lcr_average,lcr_highest,lcr_highest_year,pgr_lowest,pgr_lowest_year,pgr_average,pgr_highest,pgr_highest_year,n_intervals
+Addis Ababa,2.33,2000,2.92,3.76,1985,2.66,2000,3.79,4.59,1985,9
+Dar es Salaam,1.32,2020,2.49,3.30,2000,4.43,2000,5.71,8.84,1980,9
+Kampala,3.12,2005,3.93,4.82,1990,3.13,1980,4.30,5.01,1990,9
+Nairobi,1.66,2005,3.20,5.48,1990,2.60,2020,3.62,4.89,1985,9

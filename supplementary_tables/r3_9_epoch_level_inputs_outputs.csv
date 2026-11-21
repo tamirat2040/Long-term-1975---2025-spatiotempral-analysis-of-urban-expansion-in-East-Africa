@@ -1,0 +1,45 @@
+city,epoch_year,epoch_status,built_up_area_km2,population_millions,density_persons_per_km2_built_up
+Addis Ababa,1975,observed,41.5,1.23,29623
+Addis Ababa,1980,observed,48.1,1.54,31927
+Addis Ababa,1985,observed,58.1,1.93,33279
+Addis Ababa,1990,observed,69.1,2.35,33965
+Addis Ababa,1995,observed,78.0,2.85,36523
+Addis Ababa,2000,observed,87.6,3.25,37142
+Addis Ababa,2005,observed,100.3,3.72,37044
+Addis Ababa,2010,observed,117.2,4.44,37900
+Addis Ababa,2015,observed,135.0,5.41,40071
+Addis Ababa,2020,observed,154.1,6.77,43965
+Addis Ababa,2025,projected,162.6,8.4,51645
+Dar es Salaam,1975,observed,75.8,0.56,7446
+Dar es Salaam,1980,observed,84.6,0.88,10380
+Dar es Salaam,1985,observed,98.3,1.2,12199
+Dar es Salaam,1990,observed,114.6,1.58,13755
+Dar es Salaam,1995,observed,134.3,2.0,14864
+Dar es Salaam,2000,observed,158.4,2.49,15726
+Dar es Salaam,2005,observed,174.2,3.22,18494
+Dar es Salaam,2010,observed,195.6,4.29,21942
+Dar es Salaam,2015,observed,217.6,5.68,26091
+Dar es Salaam,2020,observed,232.4,7.37,31729
+Dar es Salaam,2025,projected,240.9,9.42,39115
+Kampala,1975,observed,56.3,1.07,18948
+Kampala,1980,observed,67.0,1.25,18596
+Kampala,1985,observed,83.5,1.58,18959
+Kampala,1990,observed,106.2,2.03,19139
+Kampala,1995,observed,132.0,2.56,19415
+Kampala,2000,observed,162.9,3.15,19336
+Kampala,2005,observed,190.4,3.9,20483
+Kampala,2010,observed,229.3,4.81,20979
+Kampala,2015,observed,278.6,5.96,21385
+Kampala,2020,observed,329.7,7.4,22429
+Kampala,2025,projected,381.9,9.06,23719
+Nairobi,1975,observed,76.7,1.62,21086
+Nairobi,1980,observed,92.4,1.99,21511
+Nairobi,1985,observed,120.6,2.54,21048
+Nairobi,1990,observed,158.6,3.17,20011
+Nairobi,1995,observed,181.0,3.87,21402
+Nairobi,2000,observed,208.8,4.68,22424
+Nairobi,2005,observed,226.9,5.45,24028
+Nairobi,2010,observed,251.8,6.29,24997
+Nairobi,2015,observed,284.2,7.24,25476
+Nairobi,2020,observed,324.0,8.24,25445
+Nairobi,2025,projected,356.0,9.36,26290

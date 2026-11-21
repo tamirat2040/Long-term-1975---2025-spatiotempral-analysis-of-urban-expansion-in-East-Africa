@@ -1,0 +1,4 @@
+extent,Addis Ababa,Dar es Salaam,Kampala,Nairobi,Spearman_rho_vs_original,Kendall_tau_vs_original,ranking_preserved
+Original radii,0.786 (2),0.457 (1),0.918 (4),0.864 (3),,,Reference
+Common 40 km,0.786 (3),0.454 (1),0.799 (4),0.695 (2),0.80,0.67,No
+2020 SMOD footprint,0.716 (4),0.373 (1),0.699 (3),0.466 (2),0.40,0.33,No

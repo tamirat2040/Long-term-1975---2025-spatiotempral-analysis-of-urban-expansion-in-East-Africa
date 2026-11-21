@@ -1,0 +1,95 @@
+{
+  "ghsl_assets": {
+    "built_surface": "JRC/GHSL/P2023A/GHS_BUILT_S/",
+    "population": "JRC/GHSL/P2023A/GHS_POP/",
+    "smod": "JRC/GHSL/P2023A/GHS_SMOD_V2-0/"
+  },
+  "epochs": [
+    1975,
+    1980,
+    1985,
+    1990,
+    1995,
+    2000,
+    2005,
+    2010,
+    2015,
+    2020,
+    2025
+  ],
+  "raster_scale_m": 100,
+  "city_radii_m": {
+    "Addis Ababa": 40000,
+    "Dar es Salaam": 50000,
+    "Kampala": 80000,
+    "Nairobi": 60000
+  },
+  "smod_classes": {
+    "21": "Suburban/Peri-urban",
+    "22": "Semi-dense Urban",
+    "23": "Dense Urban",
+    "30": "Urban Centre"
+  },
+  "projected_interval": "2020-2025",
+  "observed_intervals": "1975-2020",
+  "public_repository_url": "https://github.com/tamirat2040/East_Africa_urban_expansion",
+  "github_release_url": "https://github.com/tamirat2040/East_Africa_urban_expansion/releases/tag/v1.0.0-r3.9",
+  "zenodo_version_doi": "10.5281/zenodo.24333717",
+  "zenodo_concept_doi": "10.5281/zenodo.24333716",
+  "city_centers_lon_lat": {
+    "Addis Ababa": {
+      "longitude": 38.7578,
+      "latitude": 9.009
+    },
+    "Dar es Salaam": {
+      "longitude": 39.2083,
+      "latitude": -6.7924
+    },
+    "Kampala": {
+      "longitude": 32.5825,
+      "latitude": 0.3476
+    },
+    "Nairobi": {
+      "longitude": 36.8219,
+      "latitude": -1.2921
+    }
+  },
+  "coordinate_system_interpretation": {
+    "name": "WGS 84 geographic coordinates",
+    "epsg": "EPSG:4326",
+    "basis": "Google Earth Engine default interpretation of ee.Geometry.Point([longitude, latitude])",
+    "source_file_declares_crs": false
+  },
+  "legacy_gee_source": "provenance/legacy_gee/20251222_SMOD_east_africa_legacy.txt",
+  "legacy_roi_construction": "data.point.buffer(data.radius).bounds()",
+  "legacy_roi_note": "The legacy display ROI is a bounding rectangle around the buffered point; it is provenance only and does not replace final circular or largest-patch geometry exports.",
+  "final_geometry_exports": {
+    "status": "complete",
+    "source_script": "provenance/legacy_gee/20251222_SMOD_east_africa_r3_9_geometry_exports.js",
+    "roi_method": "data.point.buffer(data.radius)",
+    "largest_patch_epoch": 2025,
+    "largest_patch_smod_class": 30,
+    "largest_patch_connectivity": "eight-connected",
+    "geometry_export_scale_m": 1000,
+    "individual_roi_files": [
+      "boundaries/R3_9_ROI_Addis_Ababa.geojson",
+      "boundaries/R3_9_ROI_Dar_es_Salaam.geojson",
+      "boundaries/R3_9_ROI_Kampala.geojson",
+      "boundaries/R3_9_ROI_Nairobi.geojson"
+    ],
+    "individual_largest_patch_files": [
+      "boundaries/R3_9_largest_SMOD_class30_patch_2025_Addis_Ababa.geojson",
+      "boundaries/R3_9_largest_SMOD_class30_patch_2025_Dar_es_Salaam.geojson",
+      "boundaries/R3_9_largest_SMOD_class30_patch_2025_Kampala.geojson",
+      "boundaries/R3_9_largest_SMOD_class30_patch_2025_Nairobi.geojson"
+    ],
+    "combined_backup_files": [
+      "boundaries/R3_9_analytical_circular_ROIs_all_cities.geojson",
+      "boundaries/R3_9_largest_SMOD_class30_patches_2025_all_cities.geojson"
+    ]
+  },
+  "primary_computational_source": "code/20261116_urban_expansion_in_4_eastafrican_cites.ipynb",
+  "license_model": "MIT for code and scripts; CC BY 4.0 for derived data figures and documentation",
+  "citation_metadata_file": "CITATION.cff",
+  "public_repository_url_or_doi": null
+}

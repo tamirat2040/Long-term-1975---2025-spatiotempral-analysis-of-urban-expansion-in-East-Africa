@@ -1,0 +1,4 @@
+scenario,spearman_rho,kendall_tau,robust
+time_varying,1.0,1.0,YES
+fixed_2020,1.0,1.0,YES
+fixed_1975,0.8,0.6667,NO

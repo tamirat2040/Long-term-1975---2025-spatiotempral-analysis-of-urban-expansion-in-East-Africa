@@ -1,0 +1,5 @@
+extent,spearman_rho,kendall_tau,robust
+original,1.0,1.0,YES
+common,0.8,0.6667,NO
+footprint,0.4,0.3333,NO
+admin,,,NaN

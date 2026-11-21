@@ -1,0 +1,33 @@
+{
+  "source_file": "provenance/legacy_gee/20251222_SMOD_east_africa_legacy.txt",
+  "coordinate_system_interpretation": {
+    "name": "WGS 84 geographic coordinates",
+    "epsg": "EPSG:4326",
+    "basis": "Google Earth Engine default for ee.Geometry.Point([longitude, latitude])",
+    "explicitly_declared_in_source": false
+  },
+  "city_centers_and_radii": {
+    "Addis Ababa": {
+      "longitude": 38.7578,
+      "latitude": 9.009,
+      "radius_m": 40000
+    },
+    "Dar es Salaam": {
+      "longitude": 39.2083,
+      "latitude": -6.7924,
+      "radius_m": 50000
+    },
+    "Kampala": {
+      "longitude": 32.5825,
+      "latitude": 0.3476,
+      "radius_m": 80000
+    },
+    "Nairobi": {
+      "longitude": 36.8219,
+      "latitude": -1.2921,
+      "radius_m": 60000
+    }
+  },
+  "roi_construction": "data.point.buffer(data.radius).bounds()",
+  "interpretation": "Legacy provenance only; displayed ROI is a bounding rectangle around the buffer and does not replace final circular or largest-patch geometry exports."
+}

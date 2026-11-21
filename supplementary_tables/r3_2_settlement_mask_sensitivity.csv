@@ -1,0 +1,4 @@
+mask,Addis Ababa,Dar es Salaam,Kampala,Nairobi,Spearman_rho_vs_time_varying_baseline,ranking_preserved
+Time-varying (baseline),0.786 (2),0.457 (1),0.918 (4),0.864 (3),,Reference
+Fixed 2020,0.781 (2),0.429 (1),0.950 (4),0.868 (3),1.00,Yes
+Fixed 1975,0.612 (3),0.220 (1),0.621 (4),0.551 (2),0.80,No
