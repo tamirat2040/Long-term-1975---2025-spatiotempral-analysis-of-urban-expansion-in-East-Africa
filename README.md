@@ -1,7 +1,7 @@
 # East Africa urban expansion reproducibility package — v1.0.0-r3.9
 
 **Prepared and published:** 2026-11-18  
-**Public repository:** https://github.com/tamirat2040/East_Africa_urban_expansion  
+**Public repository:** [https://github.com/tamirat2040/East_Africa_urban_expansion ](https://github.com/tamirat2040/Urban-expansion-analysis-in-East-Africa) 
 **GitHub release:** https://github.com/tamirat2040/East_Africa_urban_expansion/releases/tag/v1.0.0-r3.9  
 **Zenodo version DOI:** https://doi.org/10.5281/zenodo.24333717  
 **Zenodo concept DOI:** https://doi.org/10.5281/zenodo.24333716  
